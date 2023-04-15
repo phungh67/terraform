@@ -1,0 +1,11 @@
+# Ignore Terraform provide
+.terraform
+
+# Ignore lock file
+.terraform.lock.hcl
+
+# Ignore tfstate
+terraform.tfstate*
+
+# Ignore plan
+plan.out
